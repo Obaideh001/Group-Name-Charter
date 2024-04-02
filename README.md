@@ -6,7 +6,7 @@ Team Name Ideas:
 * Commit Issues
 * Code Collective
 
-Charter Edit Ideas:
+Possible Charter Edits:
 * Availability for Meetings: Specify virtual vs. in-person preference, acceptable days/times.
 * Response Time: Set a maximum response time for communication (e.g., 24 hours on weekdays).
 * Definition of Done: Clarify that a task is only done when fully tested and integrated into the main branch.
