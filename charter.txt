@@ -1,5 +1,5 @@
 Group Charter: Your Team Name
-
+tes
 Meetings: 
   In-Person Times:
     * 
