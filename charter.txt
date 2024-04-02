@@ -1,6 +1,14 @@
 Group Charter: Your Team Name
-Meetings: List time
-Group Contacts: Julian Bartosz (email: jbartosz@uwm.edu), __ (email or preferred contact: __), __ (email or preferred contact: __), __ (email or preferred contact: __), __ (email or preferred contact: __)
+
+Meetings: 
+  In-Person Times:
+    * 
+  Virtual Times:
+    *
+
+Group Contacts: Obaideh Alshammari (email or preferred contact: obaideh@uwm.edu), Julian Bartosz (email: jbartosz@uwm.edu),  Lord Elgin Raguero (email or preferred contact: lraguero@uwm.edu), Cainan Garison Squibb (email or preferred contact: cgsquibb@uwm.edu), Anthony Xavier Velez (email or preferred contact: axvelez@uwm.edu)
+
+
 Goals:
 1. To adhere well as a group, respecting each member, and supporting each member by working together to accomplish the goals listed below and adhering to this charter.
 2. To gain a more intimate knowledge of the software life cycle by working as a group to develop a quality product worth an “A”.
@@ -62,8 +70,8 @@ A major group offence can occur by breaking indicated statutes of the charter, o
 A group member committing enough minor and major offences will finally have gone to the dark side and demoted to Darth Vader. They will be referred to punishment and dismissal and will be given over to review by the TA and governing bodies (the Rock). An email describing the offences leading up to punishment and dismissal will be displayed along with testimonies from at least 2 other group members and a log of offenses. If available, the offending members work will be confiscated and termed as “belonging to the group”.
 
 We, the team named ________ agree with the Group Charter and will try our best to uphold it.
-Name  Julian Bartosz      Date Tue March 26, 2024
-Name  _____________________________________      Date Tue March 26, 2024
-Name  _____________________________________      Date Tue March 26, 2024
-Name  _____________________________________      Date Tue March 26, 2024
-Name  _____________________________________      Date Tue March 26, 2024
+Name  Julian Bartosz              Date Tue Apr 2, 2024
+Name  Obaideh Alshammari          Date Tue Apr 2, 2024
+Name  Lord Elgin Raguero          Date Tue Apr 2, 2024
+Name  Cainan Garison Squibb       Date Tue Apr 2, 2024
+Name  Anthony Xavier Velez        Date Tue Apr 2, 2024
