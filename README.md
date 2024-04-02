@@ -2,7 +2,6 @@ CS361 Group MidtermProject
 
 Team Name Ideas:
 * Byte Down
-* Merge Conflicts
 * Commit Issues
 * Code Collective
 
